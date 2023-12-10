@@ -1,0 +1,8 @@
+prefix=/home/hnam/kobuki_ws/install
+
+Name: framework
+Description: Description of framework
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

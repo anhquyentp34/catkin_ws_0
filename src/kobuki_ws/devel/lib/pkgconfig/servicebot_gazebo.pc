@@ -1,0 +1,8 @@
+prefix=/home/hnam/kobuki_ws/devel
+
+Name: servicebot_gazebo
+Description: Description of servicebot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
